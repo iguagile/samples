@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="iguagile-dotnet" Version="0.1.6" />
-    <PackageReference Include="NAudio" Version="1.10.0" />
+    <PackageReference Include="NAudio" Version="2.1.0" />
   </ItemGroup>
 
 </Project>
